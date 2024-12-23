@@ -1,0 +1,3 @@
+streamlit
+requests
+- Salva il file nella stessa directory di `main.py`.
